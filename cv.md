@@ -1,9 +1,9 @@
-# Enrique Paredes
+# [Enrique Paredes](https://github.com/iknite/about.me)
 <img align="right" src="https://avatars2.githubusercontent.com/u/745710?v=4&s=120">
 
 AI Platform Engineer at Terminus7
 
-enrique@iknite.com
+enrique@iknite.com 
 
 # Summary
 Father, information junkie and reckless learner. Lucky enough to love what I do
