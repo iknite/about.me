@@ -28,6 +28,7 @@ I'm proud to work in this strange powerhouse of engineering knowledge and creati
 - Security: Creation of next generation tooling for SecDevOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted postgresql.
 
 - AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment, language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavour configurations. 
+    - `video` [OWASPMadrid: DeepTracy + Patton (4m55s y 16m15s)](https://www.youtube.com/watch?v=-8fhJXDuHFs&t=4m55s)
 
 
 ## AI Platform Engineer, [Terminus7](https://twitter.com/terminus7ai)
