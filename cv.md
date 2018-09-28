@@ -35,6 +35,9 @@ I'm proud to work in this strange powerhouse of engineering knowledge and creati
 `Docker` `Tensorflow` `GitlabCI` `Keras` `Dask` `Odo` `Terraform`
 ##### February 2017 - Jan 2018 (1 yr)
 AI division of Intelygenz, my role was to fulfil the infrastructure needs of the data scientists. I had developed all the initial CI-CD of the spin-off venture, ensuring good developing practices and share my prior python knowledge. I've managed to switch manually model training that spans 3+ days, to a fully automated environment that shards the training in 150+ AWS instances making the training in hours.
+- `video` [Past, present and future of Cloud Computing | with Madrid Devops](https://www.youtube.com/watch?v=nj2JP3cyu3g&t=13m30s)
+
+
 
 ## Software & DevOps Engineer, [Fever Labs Inc.](https://feverup.com/)
 `Django` `React` `Redux` `Django-rest-framework` `Postgres` `PostGIS` `Ansible` `AWS`
