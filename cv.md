@@ -21,11 +21,11 @@ Father, information junkie and reckless learner. Lucky enough to love what I do.
 ## Platform Engineer & AI Researcher, [BBVA Innovation Labs](https://www.bbva.com/es/bienvenido-bbva-labs/)
 `Binary-merkle-trees` `Raft` `Serf` `Asyncio` `Full-text Search` `Jenkins` `Docker` `Kubernetes` `Tensorflow` `Keras`
 ##### Jan 2018 - Present
-I'm proud to work in this strange powerhouse of engineering knowledge and creativity. This department has 3 exploratory areas, AI, Hyperscale and Security. I've worked in all of them. 
+I'm proud to work in this strange powerhouse of engineering knowledge and creativity. This department has 3 exploratory areas, AI, Hyperscale and Information Security. I've worked in all of them. 
 
 - Hyperscale: Area responsible for unlocking the full potential of software development and networking. A clear example of that is QED which is a cryptographic verification for time-based events. https://github.com/bbva/qed My responsibilities in this projects include maximize the quality of the code, reduce the bridge between more skilled software engineers and traditional systems engineers and present a comprehensible and cohesible documentation for the project.
 
-- Security: Creation of next generation tooling for SecDevOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted postgresql.
+- Information Security: Creation of next generation tooling for DevSecOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted postgresql.
 
 - AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment, language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavour configurations. 
     - `video` [OWASPMadrid: DeepTracy + Patton (4m55s y 16m15s)](https://www.youtube.com/watch?v=-8fhJXDuHFs&t=4m55s)
