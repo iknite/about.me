@@ -19,13 +19,13 @@ Father, information junkie and reckless learner. Lucky enough to love what I do.
 
 # Experience
 ## Platform Engineer & AI Researcher, [BBVA Innovation Labs](https://www.bbva.com/es/bienvenido-bbva-labs/)
-`Binary-merkle-trees` `Raft` `Serf` `Asyncio` `Full-text Search` `Jenkins` `Docker` `Kubernetes` `Tensorflow` `Keras`
+`Binary-Merkle-trees` `Raft` `Serf` `Asyncio` `Full-text Search` `Jenkins` `Docker` `Kubernetes` `Tensorflow` `Keras`
 ##### Jan 2018 - Present
 I'm proud to work in this strange powerhouse of engineering knowledge and creativity. This department has 3 exploratory areas, AI, Hyperscale and Information Security. I've worked in all of them. 
 
 - Hyperscale: Area responsible for unlocking the full potential of software development and networking. A clear example of that is QED which is a cryptographic verification for time-based events. https://github.com/bbva/qed My responsibilities in this projects include maximize the quality of the code, reduce the bridge between more skilled software engineers and traditional systems engineers and present a comprehensible and cohesible documentation for the project.
 
-- Information Security: Creation of next generation tooling for DevSecOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted postgresql.
+- Information Security: Creation of next generation tooling for DevSecOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted PostgreSQL.
 
 - AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment, language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavour configurations. 
     - `video` [OWASPMadrid: DeepTracy + Patton (4m55s y 16m15s)](https://www.youtube.com/watch?v=-8fhJXDuHFs&t=4m55s)
@@ -34,9 +34,8 @@ I'm proud to work in this strange powerhouse of engineering knowledge and creati
 ## AI Platform Engineer, [Terminus7](https://twitter.com/terminus7ai)
 `Docker` `Tensorflow` `GitlabCI` `Keras` `Dask` `Odo` `Terraform`
 ##### February 2017 - Jan 2018 (1 yr)
-AI division of Intelygenz, my role was to fulfil the infrastructure needs of the data scientists. I had developed all the initial CI-CD of the spin-off venture, ensuring good developing practices and share my prior python knowledge. I've managed to switch manually model training that spans 3+ days, to a fully automated environment that shards the training in 150+ AWS instances making the training in hours.
+A.I. division of Intelygenz, my role was to fulfil the infrastructure needs of the data scientists. I had developed all the initial CI-CD of the spin-off venture, ensuring good developing practices and share my prior python knowledge. I've managed to switch manually model training that spans 3+ days, to a fully automated environment that shards the training in 150+ AWS instances making the training in hours.
 - `video` [Past, present and future of Cloud Computing | with Madrid Devops](https://www.youtube.com/watch?v=nj2JP3cyu3g&t=13m30s)
-
 
 
 ## Software & DevOps Engineer, [Fever Labs Inc.](https://feverup.com/)
@@ -47,7 +46,9 @@ Managing life-cycle production code development, narrowing the gap between Softw
 ## DevOps Engineer, [101 cientouno](https://101.es/)
 `AWS` `Nginx` `Ansible` `Packer` `Django` `Postgres`
 ##### September 2014 - May 2015 (9 months) 
-Creating Infrastructure for microsites and real-time collaborative games. Supervising the elaboration of a configurable responsible email tooling.  
+Creating Infrastructure for microsites and real-time collaborative games. Supervising the elaboration of a configurable responsible email tooling.
+
+- Certified Scrum Master (CSM): Company level course, driven by Agilar, We stall the company for 2 weeks in order to allow a complete immersion in the methodology and philosophy.  
 
 ## Software Engineer, [QDQ Media](https://www.qdqmedia.com/)
 `AppCache` `Indexed DB` `LocalStorage` `Django` `Postgres`
@@ -70,7 +71,7 @@ Creative developer, crafting immersive web experiences, managing traditional med
 
 ## Self Educated
 ##### 1980 - Present
-Computer Science through Coffee.
+Computer Science through coffee.
 
 ## ESDIP - Escuela Superior de Dibujo Profesional
 ##### 2001 - 2003
@@ -82,6 +83,9 @@ Multimedia Creative, Design, Illustration, Inteactive Design, Branding, Programi
 
 ## AWS Certified Solutions Architect - Associate (SAA)
 ##### Feb 2018 – Feb 2020
+
+## Certified Scrum Master (CSM)
+##### Dec 2014
 
 ## UNED Computer Science Degree.
 ##### Oct 2018 - Present
