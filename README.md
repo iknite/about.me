@@ -1,24 +1,24 @@
 # [Enrique Paredes](https://github.com/iknite/about.me)
 <img align="right" src="https://avatars2.githubusercontent.com/u/745710?v=4&s=120">
 
-Platform Engineer & AI Researcher at BBVA Innovation Labs.
+AI Platform Engineer @ Clarity AI.
 
 <p align="left">
-<a alt="AI Platform Engineer"><img src="https://img.shields.io/badge/AI%20Platform%20Engineer-2%20years-green.svg" /></a>
-<a alt="SRE"><img src="https://img.shields.io/badge/SRE-2.5%20years-green.svg" /></a>
+<a alt="AI Platform Engineer"><img src="https://img.shields.io/badge/AI%20Platform%20Engineer-3%20years-green.svg" /></a>
+<a alt="SRE"><img src="https://img.shields.io/badge/SRE-3%20years-green.svg" /></a>
 <a alt="Software Engineer"><img src="https://img.shields.io/badge/Software%20Engineer-10+%20years-green.svg" /></a>
 </p>
 
 <p align="left">
-<a alt="Go"><img src="https://img.shields.io/badge/go-1%20year-yellow.svg" /></a>
-<a alt="Python"><img src="https://img.shields.io/badge/python-5%20years-green.svg" /></a>
-<a alt="Javascript"><img src="https://img.shields.io/badge/javascript-10%20years-green.svg" /></a>
+<a alt="Go"><img src="https://img.shields.io/badge/go-2%20year-yellow.svg" /></a>
+<a alt="Python"><img src="https://img.shields.io/badge/python-6%20years-green.svg" /></a>
+<a alt="Javascript"><img src="https://img.shields.io/badge/javascript-10+%20years-green.svg" /></a>
 </p>
 
 Father, information junkie and reckless learner. Lucky enough to love what I do.
 
 # Experience
-## Infrastructure Engineer [Clarity AI](https://clarity.ai)
+## AI Platform Engineer [Clarity AI](https://clarity.ai)
 `AI productivization` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics`
 ##### Oct 2019 - Present
 Consumism is broken, and we will fix it with data and facts. I'm changing the world one platform at a time in this amazing company full of talent and excelence. 
