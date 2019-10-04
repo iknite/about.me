@@ -18,9 +18,14 @@ Platform Engineer & AI Researcher at BBVA Innovation Labs.
 Father, information junkie and reckless learner. Lucky enough to love what I do.
 
 # Experience
+## Infrastructure Engineer [Clarity AI](https://clarity.ai)
+`AI productivization` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics`
+##### Oct 2019 - Present
+Consumism is broken, and we will fix it with data and facts. I'm changing the world one platform at a time in this amazing company full of talent and excelence. 
+
 ## Platform Engineer & AI Researcher, [BBVA Innovation Labs](https://www.bbva.com/es/bienvenido-bbva-labs/)
 `Binary-Merkle-trees` `Raft` `Serf` `Asyncio` `Full-text Search` `Jenkins` `Docker` `Kubernetes` `Tensorflow` `Keras`
-##### Jan 2018 - Present
+##### Jan 2018 - Sep 2019
 I'm proud to work in this strange powerhouse of engineering knowledge and creativity. This department has 3 exploratory areas, AI, Hyperscale and Information Security. I've worked in all of them. 
 
 - Hyperscale: Area responsible for unlocking the full potential of software development and networking. A clear example of that is QED which is a cryptographic verification for time-based events. https://github.com/bbva/qed My responsibilities in this projects include maximize the quality of the code, reduce the bridge between more skilled software engineers and traditional systems engineers and present a comprehensible and cohesible documentation for the project.
