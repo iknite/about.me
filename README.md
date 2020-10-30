@@ -1,8 +1,7 @@
 # [Enrique Paredes](https://github.com/iknite/about.me)
 <img align="right" src="https://avatars2.githubusercontent.com/u/745710?v=4&s=120">
 
-AI Platform Engineer @ Clarity AI.
-
+AI Platform Engineer @ iknite
 <p align="left">
 <a alt="AI Platform Engineer"><img src="https://img.shields.io/badge/AI%20Platform%20Engineer-3%20years-green.svg" /></a>
 <a alt="SRE"><img src="https://img.shields.io/badge/SRE-3%20years-green.svg" /></a>
@@ -18,9 +17,14 @@ AI Platform Engineer @ Clarity AI.
 Father, information junkie and reckless learner. Lucky enough to love what I do.
 
 # Experience
+## AI Platform Engineer and CEO of [iknite](https://github.com/iknite)
+`AI High-availability` `Reliavility` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics` `ELK` `AWS` `GCP` `ACP`
+##### Jul 2020 - Present
+Having the opportunity to collaborate with amazing companies led me to enroll myself in the journey of undust my company again, and provide crafted infrastructure to a selected people. **Technology is people**, so `iknite` relies on creating personal experiences instead of fast, untailored results.
+
 ## AI Platform Engineer [Clarity AI](https://clarity.ai)
 `AI productivization` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics`
-##### Oct 2019 - Present
+##### Oct 2019 - Jun 2020
 Consumism is broken, and we will fix it with data and facts. I'm changing the world one platform at a time in this amazing company full of talent and excelence. 
 
 ## Platform Engineer & AI Researcher, [BBVA Innovation Labs](https://www.bbva.com/es/bienvenido-bbva-labs/)
@@ -56,7 +60,7 @@ Creating Infrastructure for microsites and real-time collaborative games. Superv
 - Certified Scrum Master (CSM): Company level course, driven by Agilar, We stall the company for 2 weeks in order to allow a complete immersion in the methodology and philosophy.  
 
 ## Software Engineer, [QDQ Media](https://www.qdqmedia.com/)
-`AppCache` `Indexed DB` `LocalStorage` `Django` `Postgres`
+`AppCache` `Indexed DB` `LocalStorage` `Django` `Postgres` `ELK`
 ##### July 2011 - September 2014 (3 years 3 months)
 Bringing the corporate applications to the post PC era, updating the internal tools to HTML5 and developing the backend user tools for the web applications.
 
@@ -89,12 +93,15 @@ Multimedia Creative, Design, Illustration, Inteactive Design, Branding, Programi
 ## AWS Certified Solutions Architect - Associate (SAA)
 ##### Feb 2018 – Feb 2020
 
+## Certified Kubernetes Administrator (CKA) 
+##### Planned mid 2020
+
 ## Certified Scrum Master (CSM)
 ##### Dec 2014
 
 ## UNED Computer Science Degree.
-##### Oct 2018 - Present
+##### Oct 2018 - Ago 2020
 
 # A little More About me
 I'm kind of a nerd in everything I put my mind into, like music. I have a small studio (if small are 5000+ vinyl and 10+ music gadgets & instruments). Or Crossfit, I really love to read about technique, I can't help myself. I suppose that's how my brain is rigged. 
-- I'll always make time for a good green coffee, old-school sci-fi and category theory.
+- I'll always make time for a expeciality coffee, old-school sci-fi and category theory.
