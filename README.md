@@ -14,37 +14,37 @@ AI Platform Engineer @ iknite
 <a alt="Javascript"><img src="https://img.shields.io/badge/javascript-10+%20years-green.svg" /></a>
 </p>
 
-Father, information junkie and reckless learner. Lucky enough to love what I do.
+Father, information junkie, and reckless learner. Lucky enough to love what I do.
 
 # Experience
 ## AI Platform Engineer and CEO of [iknite](https://github.com/iknite)
 `AI High-availability` `Reliavility` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics` `ELK` `AWS` `GCP` `ACP`
 ##### Jul 2020 - Present
-Having the opportunity to collaborate with amazing companies led me to enroll myself in the journey of undust my company again, and provide crafted infrastructure to a selected people. **Technology is people**, so `iknite` relies on creating personal experiences instead of fast, untailored results.
+Having the opportunity to collaborate with amazing companies led me to enroll myself in the journey of undust my company again, and provide crafted infrastructure to a selected few. **Technology is people**, so `iknite` relies on creating personal experiences instead of fast, untailored results.
 
 ## AI Platform Engineer [Clarity AI](https://clarity.ai)
 `AI productivization` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics`
 ##### Oct 2019 - Jun 2020
-Consumism is broken, and we will fix it with data and facts. I'm changing the world one platform at a time in this amazing company full of talent and excelence. 
+Consumerism is broken, and we will fix it with data and facts. I'm changing the world one platform at a time in this amazing company full of talent and excellence. 
 
 ## Platform Engineer & AI Researcher, [BBVA Innovation Labs](https://www.bbva.com/es/bienvenido-bbva-labs/)
 `Binary-Merkle-trees` `Raft` `Serf` `Asyncio` `Full-text Search` `Jenkins` `Docker` `Kubernetes` `Tensorflow` `Keras`
 ##### Jan 2018 - Sep 2019
-I'm proud to work in this strange powerhouse of engineering knowledge and creativity. This department has 3 exploratory areas, AI, Hyperscale and Information Security. I've worked in all of them. 
+I'm proud to work in this strange powerhouse of engineering knowledge and creativity. This department has 3 exploratory areas, AI, Hyperscale, and Information Security. I've worked in all of them. 
 
-- Hyperscale: Area responsible for unlocking the full potential of software development and networking. A clear example of that is QED which is a cryptographic verification for time-based events. https://github.com/bbva/qed My responsibilities in this projects include maximize the quality of the code, reduce the bridge between more skilled software engineers and traditional systems engineers and present a comprehensible and cohesible documentation for the project.
+- Hyperscale: Area responsible for unlocking the full potential of software development and networking. A clear example of that is QED which is a cryptographic verification for time-based events. https://github.com/bbva/qed My responsibilities in these projects include maximize the quality of the code, reduce the bridge between more skilled software engineers and traditional systems engineers, and present comprehensible and cohesible documentation for the project.
 
-- Information Security: Creation of next generation tooling for DevSecOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted PostgreSQL.
+- Information Security: Creation of next-generation tooling for DevSecOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted PostgreSQL.
 
-- AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment, language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavour configurations. 
+- AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment, language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavor configurations. 
     - `video` [OWASPMadrid: DeepTracy + Patton (4m55s y 16m15s)](https://www.youtube.com/watch?v=-8fhJXDuHFs&t=4m55s)
 
 
 ## AI Platform Engineer, [Terminus7](https://twitter.com/terminus7ai)
 `Docker` `Tensorflow` `GitlabCI` `Keras` `Dask` `Odo` `Terraform`
 ##### February 2017 - Jan 2018 (1 yr)
-A.I. division of Intelygenz, my role was to fulfil the infrastructure needs of the data scientists. I had developed all the initial CI-CD of the spin-off venture, ensuring good developing practices and share my prior python knowledge. I've managed to switch manually model training that spans 3+ days, to a fully automated environment that shards the training in 150+ AWS instances making the training in hours.
-- `video` [Past, present and future of Cloud Computing | with Madrid Devops](https://www.youtube.com/watch?v=nj2JP3cyu3g&t=13m30s)
+A.I. division of Intelygenz, my role was to fulfill the infrastructure needs of the data scientists. I had developed all the initial CI-CD of the spin-off venture, ensuring good developing practices and share my prior python knowledge. I've managed to switch manually model training that spans 3+ days, to a fully automated environment that shards the training in 150+ AWS instances making the training in hours.
+- `video` [Past, present, and future of Cloud Computing | with Madrid Devops](https://www.youtube.com/watch?v=nj2JP3cyu3g&t=13m30s)
 
 
 ## Software & DevOps Engineer, [Fever Labs Inc.](https://feverup.com/)
@@ -57,16 +57,16 @@ Managing life-cycle production code development, narrowing the gap between Softw
 ##### September 2014 - May 2015 (9 months) 
 Creating Infrastructure for microsites and real-time collaborative games. Supervising the elaboration of a configurable responsible email tooling.
 
-- Certified Scrum Master (CSM): Company level course, driven by Agilar, We stall the company for 2 weeks in order to allow a complete immersion in the methodology and philosophy.  
+- Certified Scrum Master (CSM): Company level course, driven by Agilar, We stall the company for 2 weeks to allow complete immersion in the methodology and philosophy.  
 
 ## Software Engineer, [QDQ Media](https://www.qdqmedia.com/)
 `AppCache` `Indexed DB` `LocalStorage` `Django` `Postgres` `ELK`
 ##### July 2011 - September 2014 (3 years 3 months)
-Bringing the corporate applications to the post PC era, updating the internal tools to HTML5 and developing the backend user tools for the web applications.
+Bringing the corporate applications to the post PC era, updating the internal tools to HTML5, and developing the backend user tools for the web applications.
 
 ## Lead Developer, [iknite](mailto:enrique@iknite.com)
 ##### January 2008 - July 2011 (3 years 7 months)
-Integral web developments, managing time tasks & solutions through all the process. International expertise managing in-depth developments (France, Ireland, India, Italy, etc.) Consultant in web technologies, solving how/who/when needs in cutting-edge developments.
+Integral web developments, managing time tasks & solutions through all the processes. International expertise managing in-depth developments (France, Ireland, India, Italy, etc.) Consultant in web technologies, solving how/who/when needs in cutting-edge developments.
 
 ## Frontend Developer, Storm
 ##### August 2006 - December 2008 (2 years 5 months)
@@ -88,7 +88,7 @@ Cartoon Animation, Illustration, Design, 3D Animation.
 
 ## GARBEN.
 ##### 1999 - 2002
-Multimedia Creative, Design, Illustration, Inteactive Design, Branding, Programing.
+Multimedia Creative, Design, Illustration, Interactive Design, Branding, Programing.
 
 ## AWS Certified Solutions Architect - Associate (SAA)
 ##### Feb 2018 – Feb 2020
@@ -103,5 +103,5 @@ Multimedia Creative, Design, Illustration, Inteactive Design, Branding, Programi
 ##### Oct 2018 - Ago 2020
 
 # A little More About me
-I'm kind of a nerd in everything I put my mind into, like music. I have a small studio (if small are 5000+ vinyl and 10+ music gadgets & instruments). Or Crossfit, I really love to read about technique, I can't help myself. I suppose that's how my brain is rigged. 
-- I'll always make time for a expeciality coffee, old-school sci-fi and category theory.
+I'm kind of a nerd in everything I put my mind into, like music. I have a small studio (if small are 5000+ vinyl and 10+ music gadgets & instruments). Even on Crossfit I love to read about technique details, I can't help myself. I suppose that's how my brain is rigged. 
+- I'll always make time for a specialty coffee, old-school sci-fi, and category theory.
