@@ -94,13 +94,13 @@ Multimedia Creative, Design, Illustration, Interactive Design, Branding, Program
 ##### Feb 2018 – Feb 2020
 
 ## Certified Kubernetes Administrator (CKA) 
-##### Planned mid 2020
+##### Planned 
 
 ## Certified Scrum Master (CSM)
 ##### Dec 2014
 
 ## UNED Computer Science Degree.
-##### Oct 2018 - Ago 2020
+##### Oct 2018 - Never
 
 # A little More About me
 I'm kind of a nerd in everything I put my mind into, like music. I have a small studio (if small are 5000+ vinyl and 10+ music gadgets & instruments). Even on Crossfit I love to read about technique details, I can't help myself. I suppose that's how my brain is rigged. 
