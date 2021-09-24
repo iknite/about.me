@@ -17,15 +17,21 @@ AI Platform Engineer @ iknite
 Father, information junkie, and reckless learner. Lucky enough to love what I do.
 
 # Experience
-## AI Platform Engineer and CEO of [iknite](https://github.com/iknite)
-`AI High-availability` `Reliavility` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics` `ELK` `AWS` `GCP` `ACP`
+## AI Platform Engineer, [iknite](https://github.com/iknite)
+`AI High-availability` `Reliavility` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics` `ELK` `AWS` `GCP` `ACP` `terraform` `terragrunt`
 ##### Jul 2020 - Present
-Having the opportunity to collaborate with amazing companies led me to enroll myself in the journey of undust my company again, and provide crafted infrastructure to a selected few. **Technology is people**, so `iknite` relies on creating personal experiences instead of fast, untailored results.
+Having the opportunity to collaborate with amazing companies led me to enroll myself in the journey of undust my company again, and provide crafted infrastructure to a selected few. **Technology is people**, so `iknite` relies on creating personal experiences instead of fast, untailored results. There are some highlights. 
+
+- Banking Industries: Cloud-first banking is a great challenging task that I was able to manage, migrate and improve production-grade infrastructure through IaC, with terragrunt/terraform/atlantis and a lot of Architectural Decision Records.
+- International Consultant: European contractor to Manage, migrate and improve tailor-made kubernetes clusters, in almost all possible PaaS, occasional tech speaker, and CKAD syllabus teacher.
+- Data mining: Opendata governments allow us to have Terabytes of data to analyze, classify, and process. I'm had the mission to translate from "old school formats" to custom-tailored postgres.
 
 ## AI Platform Engineer [Clarity AI](https://clarity.ai)
-`AI productivization` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics`
+`AI productivization` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics` `terraform` `terragrunt` `atlantis` `AWS`
 ##### Oct 2019 - Jun 2020
-Consumerism is broken, and we will fix it with data and facts. I'm changing the world one platform at a time in this amazing company full of talent and excellence. 
+Consumerism is broken, and clarity aims to fix it with data and facts. I'm was able to improve the world a little one platform at a time in this passionate company.
+
+- DevOps: I was able to show the devops way to the company, sharing knowledge problems and challenges among the full tech staff and I am proud of it.
 
 ## Platform Engineer & AI Researcher, [BBVA Innovation Labs](https://www.bbva.com/es/bienvenido-bbva-labs/)
 `Binary-Merkle-trees` `Raft` `Serf` `Asyncio` `Full-text Search` `Jenkins` `Docker` `Kubernetes` `Tensorflow` `Keras`
@@ -36,7 +42,7 @@ I'm proud to work in this strange powerhouse of engineering knowledge and creati
 
 - Information Security: Creation of next-generation tooling for DevSecOps. I've been involved in the inception of this tool https://github.com/BBVA/patton-server. My job was to create the first MVP that blends the different data providers into a carefully-crafted PostgreSQL.
 
-- AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment, language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavor configurations. 
+- AI: I've been involved in the creation of a python runtime engine that eases the creation of python microservices with automatic CI-CD integration. I've put a special effort to allow the creation of a tool that enables multi-cloud deployment,a language-agnostic interface, and a really small server footprint. Not to mention tensorflow out-of-the-box deployments via flavor configurations. 
     - `video` [OWASPMadrid: DeepTracy + Patton (4m55s y 16m15s)](https://www.youtube.com/watch?v=-8fhJXDuHFs&t=4m55s)
 
 
@@ -93,9 +99,6 @@ Multimedia Creative, Design, Illustration, Interactive Design, Branding, Program
 ## AWS Certified Solutions Architect - Associate (SAA)
 ##### Feb 2018 – Feb 2020
 
-## Certified Kubernetes Administrator (CKA) 
-##### Planned 
-
 ## Certified Scrum Master (CSM)
 ##### Dec 2014
 
@@ -103,5 +106,5 @@ Multimedia Creative, Design, Illustration, Interactive Design, Branding, Program
 ##### Oct 2018 - Never
 
 # A little More About me
-I'm kind of a nerd in everything I put my mind into, like music. I have a small studio (if small are 5000+ vinyl and 10+ music gadgets & instruments). Even on Crossfit I love to read about technique details, I can't help myself. I suppose that's how my brain is rigged. 
+I'm kind of a nerd in everything I put my mind to, like music. I have a small studio (if small are 5000+ vinyl and 10+ music gadgets & instruments). Even on Crossfit I love to read about technique details, I can't help myself. I suppose that's how my brain is rigged. 
 - I'll always make time for a specialty coffee, old-school sci-fi, and category theory.
