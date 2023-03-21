@@ -1,7 +1,7 @@
 # [Enrique Paredes](https://github.com/iknite/about.me)
 <img align="right" src="https://avatars2.githubusercontent.com/u/745710?v=4&s=120">
 
-AI Platform Engineer @ iknite
+Staff Engineer
 <p align="left">
 <a alt="AI Platform Engineer"><img src="https://img.shields.io/badge/AI%20Platform%20Engineer-3%20years-green.svg" /></a>
 <a alt="SRE"><img src="https://img.shields.io/badge/SRE-3%20years-green.svg" /></a>
@@ -17,9 +17,17 @@ AI Platform Engineer @ iknite
 Father, information junkie, and reckless learner. Lucky enough to love what I do.
 
 # Experience
-## AI Platform Engineer, [iknite](https://github.com/iknite)
+
+##  Head Of Integrations, [CQISense](https://cqisense.com)
+`Real time` `Data Enginnering` `ELT` `Infrastucture as Code` `4 Key Metrics` `terraform` `terragrunt`
+##### Nov 2021 - Present
+Grateful to be part to create from scatch the integrations to ingest in realtime the status of millions of customers and process it in improving x80 the velocity, from industrial-grade solutions by fine grained the tailored solution that keeps track of each individual happiness
+- Reatime data flow: Create, define and implement the solutions needed to have sub minute real time healtcheck tailored to each individual customer. 
+- Platform curator: Helping indentifing suitable solutions for the tasks at hand, and create the bootstraps for the infastructure as code in the company.  
+
+## Platform Engineer, [iknite](https://github.com/iknite)
 `AI High-availability` `Reliavility` `Chaos Monkey` `Infrastucture as Code` `4 Key Metrics` `ELK` `AWS` `GCP` `ACP` `terraform` `terragrunt`
-##### Jul 2020 - Present
+##### Jul 2020 - Nov 2021
 Having the opportunity to collaborate with amazing companies led me to enroll myself in the journey of undust my company again, and provide crafted infrastructure to a selected few. **Technology is people**, so `iknite` relies on creating personal experiences instead of fast, untailored results. There are some highlights. 
 
 - Banking Industries: Cloud-first banking is a great challenging task that I was able to manage, migrate and improve production-grade infrastructure through IaC, with terragrunt/terraform/atlantis and a lot of Architectural Decision Records.
